@@ -25,5 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0118-pascals-triangle) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
