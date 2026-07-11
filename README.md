@@ -20,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0485-max-consecutive-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
