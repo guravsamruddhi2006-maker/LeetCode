@@ -23,15 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0118-pascals-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0070-climbing-stairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
@@ -48,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
