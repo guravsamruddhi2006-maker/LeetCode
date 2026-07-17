@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0070-climbing-stairs) |
+| [1903-largest-odd-number-in-string](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
