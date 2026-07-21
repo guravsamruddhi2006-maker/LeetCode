@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
