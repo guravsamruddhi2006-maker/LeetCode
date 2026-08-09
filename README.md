@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1406-stone-game-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -189,9 +193,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
