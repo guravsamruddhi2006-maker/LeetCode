@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -223,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1510-stone-game-iv) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
