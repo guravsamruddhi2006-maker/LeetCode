@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
