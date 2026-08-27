@@ -3,7 +3,7 @@ class Solution {
 
         int[] ans = {-1, -1};
 
-        // Find first occurrence
+        
         int l = 0, r = nums.length - 1;
 
         while (l <= r) {
@@ -11,7 +11,7 @@ class Solution {
 
             if (nums[mid] == target) {
                 ans[0] = mid;
-                r = mid - 1;       // search further left
+                r = mid - 1;      
             }
             else if (nums[mid] < target) {
                 l = mid + 1;
@@ -21,7 +21,7 @@ class Solution {
             }
         }
 
-        // Find last occurrence
+        
         l = 0;
         r = nums.length - 1;
 
@@ -30,7 +30,7 @@ class Solution {
 
             if (nums[mid] == target) {
                 ans[1] = mid;
-                l = mid + 1;       // search further right
+                l = mid + 1;      
             }
             else if (nums[mid] < target) {
                 l = mid + 1;
