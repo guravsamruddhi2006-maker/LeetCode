@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0459-repeated-substring-pattern) |
