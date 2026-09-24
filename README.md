@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
