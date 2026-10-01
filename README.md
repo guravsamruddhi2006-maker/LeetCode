@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0415-add-strings) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
