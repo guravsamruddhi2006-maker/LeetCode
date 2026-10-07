@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
