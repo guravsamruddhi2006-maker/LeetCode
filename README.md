@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1406-stone-game-iii) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2029-stone-game-ix](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
