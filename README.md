@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1872-stone-game-viii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0415-add-strings) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Geometry
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
