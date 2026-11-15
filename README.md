@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1046-last-stone-weight) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/guravsamruddhi2006-maker/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
